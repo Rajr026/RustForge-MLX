@@ -51,3 +51,7 @@ The reason for this, is because I am currently relearning basic ML concepts and 
                        ▼
                  Neural Networks
                  (later)
+
+# Current picture
+
+This repo currently contains the vector and martix code (versions from Martell0x1 repo from when it was forked). This will be expanded upon and other concepts will be added. 
